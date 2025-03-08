@@ -1,3 +1,10 @@
+
+<details>
+  <summary> README.md </summary>
+
+```markdown
+# README
+
 ```text
 ╔══════════════════════════════════════════════════════╗
 ║  🚀 Machine Learning-Driven QSAR Model Construction  ║
