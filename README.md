@@ -6,6 +6,7 @@
 
 ★ **What’s Inside?**
    ──────────────────────────────
+   
    • 📜 **Comprehensive Scripts:** Step-by-step guides to build your QSAR model from scratch.
    • 🧪 **Robust Evaluation:** In-depth tools and techniques to assess model performance.
    • 🤖 **Machine Learning Integration:** Leverage advanced algorithms for enhanced prediction.
